@@ -164,6 +164,7 @@ nav {
   max-width: 600px;
   margin: 0 auto;
   text-align: center;
+  padding-bottom: 50px;
 }
 
 @keyframes animate-profile-picture {
